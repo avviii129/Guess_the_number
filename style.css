@@ -17,7 +17,7 @@ body{
     background-color:white;
     height:300px;
     width:450px;
-    margin:50px auto;
+    margin:15vh auto;
     justify-content:center;
     align-items:center;
     border-radius:4px;
@@ -55,7 +55,7 @@ body{
     transition:0.3s;
     background-image: linear-gradient(
         45deg,#88f7f9,#048fff);
-        color:rgb(255, 255, 255);
+    color:rgb(255, 255, 255);
 }
 
 
@@ -88,7 +88,7 @@ body{
 }
 
 #info{
-    font-family:cursive;
+    font-family:sans-serif;
     font-size: 14px;
 }
 
@@ -125,7 +125,7 @@ footer{
     align-items:center;
     margin-top:50px;
     font-family:cursive;
-    font-weight: 600;
+    font-weight: 700;
     font-size: 25px;
 }
 
