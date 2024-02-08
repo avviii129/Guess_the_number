@@ -19,7 +19,7 @@ body{
     height:330px;
     width:50vw;
 	min-width:290px;
-    margin:10vh auto;
+    margin:8vh auto;
     justify-content:center;
     align-items:center;
     border-radius:4px;
@@ -94,7 +94,7 @@ body{
     font-size: 14px;
 }
 
-.copyright{
+.copyright,#reload{
     display:flex;
     justify-content:center;
     align-items:center;
@@ -157,3 +157,20 @@ a {
     font-weight: 600;
     font-size: 14px;
  }
+ 
+ #rldb{
+	font-family:cursive;
+    font-weight:600;
+    background-color:rgb(175, 175, 175);
+    color:black;
+    width:75px;
+    height:25px;
+    border-style:none;
+    border-radius:3px;
+ }
+ #rldb:hover{
+    transition:0.3s;
+	color:white;
+    background-color:rgb(49, 49, 49);
+}
+ 

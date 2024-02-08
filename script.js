@@ -37,3 +37,7 @@ function sc(){
     score = score - 1;
     document.getElementById("score").innerHTML="Your score: " + score;
 }
+
+function rld(){
+	window.location.reload();
+}
