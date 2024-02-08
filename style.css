@@ -11,12 +11,14 @@ body{
         45deg,#88f7f9,#048fff);
     background-repeat: no-repeat;
     height:100vh;
+	width:100vw;
 }
 
 #Main{
     background-color:white;
-    height:300px;
-    width:450px;
+    height:330px;
+    width:50vw;
+	min-width:290px;
     margin:15vh auto;
     justify-content:center;
     align-items:center;
